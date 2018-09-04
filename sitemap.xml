@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                           http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-		<loc>https://hassanandassociates.biz/</loc>
-		<xhtml:link rel="alternate" hreflang="﻿bn-bd" href="https://hassanandassociates.biz/" />
+		<loc>https://syedhassanali.com/</loc>
+		<lastmod>2018-08-26T12:45:07+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
 	</url>
+		
 	<url>
-		<loc>https://hassanandassociates.biz/feed</loc>
-		<xhtml:link rel="alternate" hreflang="﻿bn-bd" href="https://hassanandassociates.biz/feed" />
-	</url>
-	<url>
-		<loc>https://hassanandassociates.biz/rss</loc>
-		<xhtml:link rel="alternate" hreflang="﻿bn-bd" href="https://hassanandassociates.biz/rss" />
-	</url>
-	<url>
-		<loc>https://hassanandassociates.biz/404</loc>
-		<xhtml:link rel="alternate" hreflang="﻿bn-bd" href="https://hassanandassociates.biz/404" />
-	</url>
-	<url>
-		<loc>https://hassanandassociates.biz/files/terms-of-use</loc>
-		<xhtml:link rel="alternate" hreflang="﻿bn-bd" href="https://hassanandassociates.biz/files/terms-of-use" />
-	</url>
-	<url>
-		<loc>https://hassanandassociates.biz/files/privacy-policy</loc>
-		<xhtml:link rel="alternate" hreflang="﻿bn-bd" href="https://hassanandassociates.biz/files/privacy-policy" />
+		<loc>https://syedhassanali.com/contact</loc>
+		<lastmod>2018-08-26T12:45:07+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.40</priority>
 	</url>
 	
 </urlset>
